@@ -1,10 +1,8 @@
 import React from 'react'
 
-function App() {
+const App = () => {
   return (
-    <div>
-      Bala Ji Traders
-    </div>
+    <div>App</div>
   )
 }
 
