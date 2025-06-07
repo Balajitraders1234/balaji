@@ -14,14 +14,14 @@ body{
        font-weight: 600;
 }
 
-button {
+ button {
     all: unset;
     padding: 6px 16px;
     background-color: var(--red);
     height: 32px;
     color: white;
     font-weight: 500;
-}
+} 
 
 nav {
     display: flex;

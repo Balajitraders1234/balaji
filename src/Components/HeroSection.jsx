@@ -5,7 +5,6 @@ const HeroSection = () => {
     <main className="hero">
       <div className='hero-content'>
         <h1>YOUR FEET DESERVE THE BEST </h1>
-        <h1></h1>
         <p>YOUR FEET DESERVE THE BEST YOUR FEET DESERVE THE BESTYOUR FEET DESERVE THE BEST YOUR FEET DESERVE THE BEST </p>
         <div className="hero-btn">
           <button>Shop Now</button>
@@ -25,5 +24,4 @@ const HeroSection = () => {
     </main>
   )
 }
-
 export default HeroSection

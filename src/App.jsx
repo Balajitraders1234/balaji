@@ -1,14 +1,15 @@
 import React from 'react'
 import "./App.css";
 import Navigation from './Components/Navigation';
-import HeroSection from './Components/HeroSection';
+import Hero from './Hero';
+
 
 
 
 const App = () => {
   return ( <div>
     <Navigation/>
-    <HeroSection/>
+    <Hero/>
     </div>
   )
 }
